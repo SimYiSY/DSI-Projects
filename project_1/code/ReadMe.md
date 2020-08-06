@@ -77,4 +77,3 @@ States that has benefited from SAT School Day and has been showing great partici
 * Illinois (largest increase in the number of participation for SAT test)
 * Colorado (2nd largest increase in number of SAT participation, and largest decrease in ACT test participation)
 * Michigan, Delaware and Connecticut have the 100%  SAT participation for both years
-happy
