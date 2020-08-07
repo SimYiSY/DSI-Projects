@@ -1,11 +1,10 @@
 # Project 1: SAT & ACT Analysis
-The first markdown cell in a notebook is a great place to provide an overview of your entire project. You will likely want to at least state your
 
 ## Problem Statement
 Analyze trends in SAT & ACT scores from 2017 - 2018 and make recommendations to increase SAT participation and scores.
 
 ## Executive Summary
-
+Analyze the trend between 2017 and 2018 SAT and ACT participation using EDA and plots to see the relationship between the 2 and provide solution.
 ### Contents:
 - [2017 Data Import & Cleaning](#Data-Import-and-Cleaning)
 - [2018 Data Import and Cleaning](#2018-Data-Import-and-Cleaning)
