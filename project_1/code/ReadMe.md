@@ -1,10 +1,11 @@
 # Project 1: SAT & ACT Analysis
 
 ## Problem Statement
-Analyze trends in SAT & ACT scores from 2017 - 2018 and make recommendations to increase SAT participation and scores.
+Analyze trends in SAT & ACT scores from 2017 - 2018 and make recommendations to increase SAT participation
 
 ## Executive Summary
 Analyze the trend between 2017 and 2018 SAT and ACT participation using EDA and plots to see the relationship between the 2 and provide solution.
+
 ### Contents:
 - [2017 Data Import & Cleaning](#Data-Import-and-Cleaning)
 - [2018 Data Import and Cleaning](#2018-Data-Import-and-Cleaning)
@@ -48,13 +49,17 @@ Analyze the trend between 2017 and 2018 SAT and ACT participation using EDA and 
 * [Colorado Switches from ACT to SAT for High School College-Entrance Assessments](https://www.coloradokids.org/colorado-switches-from-act-to-sat-for-high-school-college-entrance-assessments/)
 * [Illinois Switches From ACT, Will Give Students SAT Instead](https://www.nbcchicago.com/news/local/illinois-switches-from-act-will-give-students-sat-instead-2/118432/)
 * [Which States Require the SAT? Complete List](https://blog.prepscholar.com/which-states-require-the-sat)
+* [Student Debts across states](https://www.forbes.com/sites/zackfriedman/2018/08/29/student-loans-by-state/#194df35c6d7d)
 
-## Conclusions-and-Recommendations
+
+## Conclusions:
 
 **SAT School Day**
 
 The program seems to have a positive impact for SAT participation. States that is part of the program has an average of 73% whereas other states has an average of 36% in 2018.
 
+
+## Findings:
 
 **Targets for improvement**
 
@@ -62,17 +67,21 @@ There are a few states that we can target to further improve the participation r
 * District of Columbia: largest decrease of participation rate from 2017 - 2018, 8% drop
 
 
-* States already in SAT School Day with low 2018 participation: Oklahoma, Ohia, South Carolina, Tennessee, West Virginia.
+* States already in SAT School Day with low 2018 participation: Oklahoma, Ohio, South Carolina, Tennessee, West Virginia.
 
   * It is interesting to note that despite having the option to choose between SAT and ACT, the students in Oklahoma, Ohio, South Carolina and Tennessee has a higher ACT participation as compared to SAT participation. (West Virginia has an West Virginia Alternative Summer Assessment that students can opt for)
 
 
 * Arkansas and Minnesota has the very low SAT participation rate compared to their high ACT participation in both years despite being offered both test and is not necessary to graduate. We can consider approaching these states to be part of SAT School Day to see if we can increase the participation rate of SAT.
 
-**Key Takeaway**
+* States with high student debts tend to have higher sat participation rate, as SAT school day offer free SAT test.
 
-States that has benefited from SAT School Day and has been showing great participation rates:
 
-* Illinois (largest increase in the number of participation for SAT test)
-* Colorado (2nd largest increase in number of SAT participation, and largest decrease in ACT test participation)
-* Michigan, Delaware and Connecticut have the 100%  SAT participation for both years
+## Recommendations:
+
+Ideally I would look for states that has a higher student debt and has low SAT participation(provided that ACT is not mandatory in the said state)
+
+My recommended state will be Minnesota, the reason being:
+* Not compulsory to take the ACT
+* High student debt, would be more willing to take part in SAT school day
+* Has low SAT participation, therefore higher chance of participation growth
