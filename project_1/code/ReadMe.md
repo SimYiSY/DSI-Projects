@@ -4,7 +4,6 @@
 Analyze trends in SAT & ACT scores from 2017 - 2018 and make recommendations to increase SAT participation
 
 ## Executive Summary
-Analyze the trend between 2017 and 2018 SAT and ACT participation using EDA and plots to see the relationship between the 2 and provide solution.
 
 ### Contents:
 - [2017 Data Import & Cleaning](#Data-Import-and-Cleaning)
@@ -82,6 +81,6 @@ There are a few states that we can target to further improve the participation r
 Ideally I would look for states that has a higher student debt and has low SAT participation(provided that ACT is not mandatory in the said state)
 
 My recommended state will be Minnesota, the reason being:
-* Not compulsory to take the ACT
+* Not compulsory to take the ACT, but have to take either test to graduate
 * High student debt, would be more willing to take part in SAT school day
 * Has low SAT participation, therefore higher chance of participation growth
