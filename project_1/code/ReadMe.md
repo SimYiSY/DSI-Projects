@@ -80,7 +80,11 @@ There are a few states that we can target to further improve the participation r
 
 Ideally I would look for states that has a higher student debt and has low SAT participation(provided that ACT is not mandatory in the said state)
 
-My recommended state will be Minnesota, the reason being:
+My recommended state will be Ohio, the reason being:
+* Low SAT participation, despite being part of SAT school day.
 * Not compulsory to take the ACT, but have to take either test to graduate
 * High student debt, would be more willing to take part in SAT school day
 * Has low SAT participation, therefore higher chance of participation growth
+* Unlike Minnesota, Ohio requires their students to take either ACT or SAT to graduate.
+
+
