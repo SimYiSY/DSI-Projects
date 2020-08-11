@@ -71,9 +71,9 @@ There are a few states that we can target to further improve the participation r
   * It is interesting to note that despite having the option to choose between SAT and ACT, the students in Oklahoma, Ohio, South Carolina and Tennessee has a higher ACT participation as compared to SAT participation. (West Virginia has an West Virginia Alternative Summer Assessment that students can opt for)
 
 
-* Arkansas and Minnesota has the very low SAT participation rate compared to their high ACT participation in both years despite being offered both test and is not necessary to graduate. We can consider approaching these states to be part of SAT School Day to see if we can increase the participation rate of SAT.
+* Arkansas and Minnesota has very low SAT participation rate compared to their high ACT participation in both years despite being offered both test and is not necessary to graduate. We can consider approaching these states to be part of SAT School Day to see if we can increase the participation rate of SAT.
 
-* States with high student debts tend to have higher sat participation rate, as SAT school day offer free SAT test.
+* States with high states debts tend to have higher sat participation rate, as SAT school day offer free SAT test.
 
 
 ## Recommendations:
@@ -83,8 +83,7 @@ Ideally I would look for states that has a higher student debt and has low SAT p
 My recommended state will be Ohio, the reason being:
 * Low SAT participation, despite being part of SAT school day.
 * Not compulsory to take the ACT, but have to take either test to graduate
-* High student debt, would be more willing to take part in SAT school day
+* High states debt, would be more willing to take part in SAT school day
 * Has low SAT participation, therefore higher chance of participation growth
 * Unlike Minnesota, Ohio requires their students to take either ACT or SAT to graduate.
-
 
