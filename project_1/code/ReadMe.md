@@ -19,9 +19,9 @@ Analyze trends in SAT & ACT scores from 2017 - 2018 and make recommendations to 
 |---|---|---|---|
 |state|object|SAT|name of state|
 |sat17_participation|float|SAT|SAT % of participant in 2017| 
-|sat17_evidence-based reading and writing|float|SAT|average SAT ERW Score 2017| 
-|sat17_math|float|SAT|average SAT Math Score 2017| 
-|sat17_total|float|SAT|average SAT Total Score 2017| 
+|sat17_evidence-based reading and writing|int64|SAT|average SAT ERW Score 2017| 
+|sat17_math|int64|SAT|average SAT Math Score 2017| 
+|sat17_total|int64|SAT|average SAT Total Score 2017| 
 |act17_participation|float|ACT|ACT % of participant in 2017| 
 |act17_english|float|ACT|average SAT English Score 2017| 
 |act17_math|float|ACT|average SAT Math Score 2017|
@@ -29,15 +29,19 @@ Analyze trends in SAT & ACT scores from 2017 - 2018 and make recommendations to 
 |act17_science|float|ACT|average SAT Science Score 2017|
 |act17_composite|float|ACT|average SAT Composite Score 2017|
 |sat18_participation|float|SAT|SAT % of participant in 2018| 
-|sat18_evidence-based reading and writing|float|SAT|average SAT ERW Score 2018| 
-|sat18_math|float|SAT|average SAT Math Score 2018| 
-|sat18_total|float|SAT|average SAT Total Score 2018| 
+|sat18_evidence-based reading and writing|int64|SAT|average SAT ERW Score 2018| 
+|sat18_math|int64|SAT|average SAT Math Score 2018| 
+|sat18_total|int64|SAT|average SAT Total Score 2018| 
 |act18_participation|float|ACT|ACT % of participant in 2018| 
 |act18_english|float|ACT|average SAT English Score 2018| 
 |act18_math|float|ACT|average SAT Math Score 2018|
 |act18_reading|float|ACT|average SAT Reading Score 2018|
 |act18_science|float|ACT|average SAT Science Score 2018|
 |act18_composite|float|ACT|average SAT Composite Score 2018|
+|sat_total_change|int64|SAT|SAT score changes from 2017 to 2018|
+|act_comp_change|float|ACT|ACT composite changes from 2017 to 2018|
+|sat_part_change|float|SAT|SAT participation changes from 2017 to 2018|
+|act_part_change|float|ACT|ACT participation changes from 2017 to 2018|
 
 ## Outside-Research
 
@@ -59,6 +63,7 @@ The program seems to have a positive impact for SAT participation. States that i
 
 
 ## Findings:
+
 
 **Targets for improvement**
 
